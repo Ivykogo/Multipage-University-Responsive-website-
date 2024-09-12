@@ -2,6 +2,10 @@
 
 Edufield University is a responsive, multi-page website designed to showcase educational programs, campus life, and other services offered by the university. It features a user-friendly interface that is accessible on various devices including desktops, tablets, and smartphones.
 
+## Live Demo
+
+Check out the live demo of the Edufield University website [here](https://Ivykogo.github.io/Edufield-University/).
+
 ## Table of Contents
 
 - [Overview](#overview)
