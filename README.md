@@ -4,7 +4,7 @@ Edufield University is a responsive, multi-page website designed to showcase edu
 
 ## Live Demo
 
-Check out the live demo of the Edufield University website [here]https://ivykogo.github.io/Edufield-University/
+Check out the live demo of the Edufield University website 
 
 ## Table of Contents
 
