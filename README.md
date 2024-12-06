@@ -2,9 +2,25 @@
 
 Edufield University is a responsive, multi-page website designed to showcase educational programs, campus life, and other services offered by the university. It features a user-friendly interface that is accessible on various devices including desktops, tablets, and smartphones.
 
-## Live Demo
+## Some screenshots of website
 
-Check out the live demo of the Edufield University website 
+
+![Screenshot 2024-12-06 192942](https://github.com/user-attachments/assets/63f50560-1292-4a91-884c-a3a46f87c45c)
+
+![Screenshot 2024-12-06 193027](https://github.com/user-attachments/assets/8ccc4ad7-9c23-4024-9e8b-3bf988c77c6c)
+
+
+![Screenshot 2024-12-06 193056](https://github.com/user-attachments/assets/e203546f-506e-4239-a206-fa90209d092b)
+
+![Screenshot 2024-12-06 195719](https://github.com/user-attachments/assets/a0d90158-021d-4670-854d-84b0a2ae23f6)
+
+![Screenshot 2024-12-06 195735](https://github.com/user-attachments/assets/7a3ccfa7-2b00-42a8-9035-a3d9e612bec6)
+
+
+![Screenshot 2024-12-06 195803](https://github.com/user-attachments/assets/12494f5c-ff89-49c4-a570-6b2a0b1b13c4)
+
+![Screenshot 2024-12-06 195821](https://github.com/user-attachments/assets/2a829fe2-2c25-4708-b808-313c51ba20fe)
+
 
 ## Table of Contents
 
